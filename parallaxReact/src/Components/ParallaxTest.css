@@ -1,0 +1,50 @@
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    top: 200px;
+}
+.main{
+    background-color: rgb(31, 31, 30);
+    height: 100vh;
+    overflow-x: hidden;
+    margin: 0px;
+    
+}
+.img0{
+    position: absolute;
+    top: 300px;
+    right: 10px;
+    height: 250px; 
+    opacity: 100%;
+}
+.img1{
+    position: absolute;
+    right: -30px;
+    width: 200px;
+    overflow: hidden;
+    opacity: 40%;
+    transform: rotate(20deg);
+    
+
+}
+.img2{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    opacity: 45%;
+    transform: rotate(30deg);
+
+}
+.img3{
+    position: absolute;
+    top: 250px;
+    left: -60px;
+    opacity: 40%;
+}
+
+.bottom{
+    height: 100vh;
+    background-color: rgb(31, 31, 30);;
+}
